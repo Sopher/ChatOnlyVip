@@ -1,0 +1,5 @@
+on chat:
+	if player don't have permissions "sopher.chat":
+		cancel event
+		send "&cChat jest tylko wlaczony dla rangi VIP!"
+		stop
